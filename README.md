@@ -3,7 +3,8 @@ A slackword bot that provides word definitions and examples using dictionary API
 
 Features
 - Definition - Get definitions using a free dictionary api and with GROQ AI for special nouns
-- Examples - Ability to press a button after using a definition to get an example sentence
+- Examples - Ability to press a button after using a definition to get an example sentence\
+- Commands - Ability to find all commands that are available
 - Uses a proper dictionary and if there is no definition, use GROQ AI for help
 
 Commands
